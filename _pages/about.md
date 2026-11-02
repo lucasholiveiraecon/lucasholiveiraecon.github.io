@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD Candidate at the Department of Economics of the University of São Paulo. My primary research interests are mainly related to Econometrics, with an emphasis on identification and forecasting.
-My secondary research interest lies in the field of Industrial Organization, especially in the context of Urban Economics. 
+I’m a second-year PhD candidate in Economics at the University of São Paulo. My primary research interests are in econometrics, with an emphasis on identification. I’m also interested in industrial organization.
 
-I'd be very happy to make new acquaintances in Academia and Non-Academia! If you want to talk my inbox is always open.
+I’d be happy to meet new people, in academia and beyond. If you’d like to chat, my inbox is always open.
 
-My PhD advisor is Professor [Luis Alvarez](https://luisfantozzialvarez.github.io).
+My advisor is Professor [Luis Alvarez](https://luisfantozzialvarez.github.io).
 
-I'm always looking forward to help with research projects, some of my current assistanships can be seen below.
+I'm always looking forward to help with research projects, some of my current assistantships can be seen below.
 
 # Current Work
 
-I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita) in constructing a highly granular georreferenced dataset using [MapaBiomas](https://brasil.mapbiomas.org) Google Earth Engine's API for evaluating the impact of hydroelectrical power plants on surrounding communities.
+I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita) in constructing a highly granular georeferenced dataset using [MapaBiomas](https://brasil.mapbiomas.org) Google Earth Engine's API for evaluating the impact of hydroelectric power plants on surrounding communities.
 
-I'm also working with Professor [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/) in a project seeking to understand the underyling economic mechanisms behind the development of religious beliefs and their impact on economic variables.
+I'm also working with Professor [Raphael Corbi](https://sites.google.com/site/raphaelcorbi/) in research situated at the intersection of Labour Economics
+and Political Economy involving the intensive use of LLMs for database construction and classification.
 
 
