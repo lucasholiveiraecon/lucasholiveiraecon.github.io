@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Lucas Henrique de Oliveira - Economics PhD Candidate, University of São Paulo"
 author_profile: true
 redirect_from: 
   - /about/
